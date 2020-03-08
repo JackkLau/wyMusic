@@ -1,2 +1,0 @@
-# wyMusic
-netease music demo
